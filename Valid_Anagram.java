@@ -16,8 +16,4 @@ public class Valid_Anagram {
         return true;
     }
 
-    public static void main(String arr[]){
-      Valid_Anagram a=new Valid_Anagram();
-      System.out.println(a.isAnagram("anagram", "nagaram"));
-    }
 }
