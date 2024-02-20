@@ -1,4 +1,4 @@
-package Linked_List_Implemention;
+package Linked_List_Implementation;
 public class LinkedListRunner {
     public static void main(String []args){
       // CustomLinkedList<Integer> list=new CustomLinkedList<>();

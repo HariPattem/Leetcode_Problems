@@ -1,4 +1,4 @@
-package Linked_List_Implemention;
+package Linked_List_Implementation;
 
 
 public class CustomLinkedList<T> {
